@@ -32,7 +32,7 @@ For information about WordBasic statements and functions, see the WordBasic Help
 
 ## Example
 
-This example uses the Word.Basic object to create a new document in Word version 6.0 or Word for Windows 95 and insert the available font names. Each font name is formatted in its corresponding font.
+This example uses the WordBasic object to create a new document in Word version 6.0 or Word for Windows 95 and insert the available font names. Each font name is formatted in its corresponding font.
 
 
 ```vb
